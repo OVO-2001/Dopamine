@@ -134,8 +134,6 @@
 "Select_Mount_Title" = "选择需要操作的路径";
 "Button_Delete_Path_Only" = "仅删除路径";
 "Button_Delete" = "取消挂载";
-<<<<<<< HEAD
-=======
 "Button_View" = "Filza查看";
 "Button_Mount" = "确定";
 
@@ -143,4 +141,3 @@
 "Input_Unmount_Title_B" = "输入原始路径";
 "Input_Unmount_Path" = "输入原始路径";
 "Button_Unmount" = "确定";
->>>>>>> origin/roothide222
